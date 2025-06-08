@@ -1,0 +1,12 @@
+C:\Users\heriq\OneDrive\Área de Trabalho\visual\projeto\apresentacao\apresentacao\apresentacao\Evento\bin\Debug\net9.0\Evento.deps.json
+C:\Users\heriq\OneDrive\Área de Trabalho\visual\projeto\apresentacao\apresentacao\apresentacao\Evento\bin\Debug\net9.0\Evento.dll
+C:\Users\heriq\OneDrive\Área de Trabalho\visual\projeto\apresentacao\apresentacao\apresentacao\Evento\bin\Debug\net9.0\Evento.pdb
+C:\Users\heriq\OneDrive\Área de Trabalho\visual\projeto\apresentacao\apresentacao\apresentacao\Evento\obj\Debug\net9.0\Evento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heriq\OneDrive\Área de Trabalho\visual\projeto\apresentacao\apresentacao\apresentacao\Evento\obj\Debug\net9.0\Evento.AssemblyInfoInputs.cache
+C:\Users\heriq\OneDrive\Área de Trabalho\visual\projeto\apresentacao\apresentacao\apresentacao\Evento\obj\Debug\net9.0\Evento.AssemblyInfo.cs
+C:\Users\heriq\OneDrive\Área de Trabalho\visual\projeto\apresentacao\apresentacao\apresentacao\Evento\obj\Debug\net9.0\Evento.csproj.CoreCompileInputs.cache
+C:\Users\heriq\OneDrive\Área de Trabalho\visual\projeto\apresentacao\apresentacao\apresentacao\Evento\obj\Debug\net9.0\Evento.sourcelink.json
+C:\Users\heriq\OneDrive\Área de Trabalho\visual\projeto\apresentacao\apresentacao\apresentacao\Evento\obj\Debug\net9.0\Evento.dll
+C:\Users\heriq\OneDrive\Área de Trabalho\visual\projeto\apresentacao\apresentacao\apresentacao\Evento\obj\Debug\net9.0\refint\Evento.dll
+C:\Users\heriq\OneDrive\Área de Trabalho\visual\projeto\apresentacao\apresentacao\apresentacao\Evento\obj\Debug\net9.0\Evento.pdb
+C:\Users\heriq\OneDrive\Área de Trabalho\visual\projeto\apresentacao\apresentacao\apresentacao\Evento\obj\Debug\net9.0\ref\Evento.dll

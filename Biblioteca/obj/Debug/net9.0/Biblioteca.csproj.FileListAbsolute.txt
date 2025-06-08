@@ -1,0 +1,12 @@
+C:\Users\heriq\OneDrive\Área de Trabalho\visual\projeto\apresentacao\apresentacao\apresentacao\Biblioteca\bin\Debug\net9.0\Biblioteca.deps.json
+C:\Users\heriq\OneDrive\Área de Trabalho\visual\projeto\apresentacao\apresentacao\apresentacao\Biblioteca\bin\Debug\net9.0\Biblioteca.dll
+C:\Users\heriq\OneDrive\Área de Trabalho\visual\projeto\apresentacao\apresentacao\apresentacao\Biblioteca\bin\Debug\net9.0\Biblioteca.pdb
+C:\Users\heriq\OneDrive\Área de Trabalho\visual\projeto\apresentacao\apresentacao\apresentacao\Biblioteca\obj\Debug\net9.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heriq\OneDrive\Área de Trabalho\visual\projeto\apresentacao\apresentacao\apresentacao\Biblioteca\obj\Debug\net9.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\heriq\OneDrive\Área de Trabalho\visual\projeto\apresentacao\apresentacao\apresentacao\Biblioteca\obj\Debug\net9.0\Biblioteca.AssemblyInfo.cs
+C:\Users\heriq\OneDrive\Área de Trabalho\visual\projeto\apresentacao\apresentacao\apresentacao\Biblioteca\obj\Debug\net9.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\heriq\OneDrive\Área de Trabalho\visual\projeto\apresentacao\apresentacao\apresentacao\Biblioteca\obj\Debug\net9.0\Biblioteca.sourcelink.json
+C:\Users\heriq\OneDrive\Área de Trabalho\visual\projeto\apresentacao\apresentacao\apresentacao\Biblioteca\obj\Debug\net9.0\Biblioteca.dll
+C:\Users\heriq\OneDrive\Área de Trabalho\visual\projeto\apresentacao\apresentacao\apresentacao\Biblioteca\obj\Debug\net9.0\refint\Biblioteca.dll
+C:\Users\heriq\OneDrive\Área de Trabalho\visual\projeto\apresentacao\apresentacao\apresentacao\Biblioteca\obj\Debug\net9.0\Biblioteca.pdb
+C:\Users\heriq\OneDrive\Área de Trabalho\visual\projeto\apresentacao\apresentacao\apresentacao\Biblioteca\obj\Debug\net9.0\ref\Biblioteca.dll
