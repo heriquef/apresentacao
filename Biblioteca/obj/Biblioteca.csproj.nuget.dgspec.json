@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\apresentacao\\Biblioteca\\Biblioteca.csproj": {}
+    "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\Apresentacao\\Biblioteca\\Biblioteca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\apresentacao\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\Apresentacao\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\apresentacao\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\Apresentacao\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\apresentacao\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\Apresentacao\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\heriq\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\apresentacao\\Biblioteca\\obj\\",
+        "outputPath": "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\Apresentacao\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\heriq\\AppData\\Roaming\\NuGet\\NuGet.Config"
