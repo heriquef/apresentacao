@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\Apresentacao\\Launcher\\Launcher.csproj": {}
+    "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\apresentacao\\Launcher\\Launcher.csproj": {}
   },
   "projects": {
-    "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\Apresentacao\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\apresentacao\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\Apresentacao\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\apresentacao\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\Apresentacao\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\apresentacao\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\heriq\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\Apresentacao\\Biblioteca\\obj\\",
+        "outputPath": "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\apresentacao\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\heriq\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\Apresentacao\\Evento\\Evento.csproj": {
+    "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\apresentacao\\Evento\\Evento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\Apresentacao\\Evento\\Evento.csproj",
+        "projectUniqueName": "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\apresentacao\\Evento\\Evento.csproj",
         "projectName": "Evento",
-        "projectPath": "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\Apresentacao\\Evento\\Evento.csproj",
+        "projectPath": "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\apresentacao\\Evento\\Evento.csproj",
         "packagesPath": "C:\\Users\\heriq\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\Apresentacao\\Evento\\obj\\",
+        "outputPath": "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\apresentacao\\Evento\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\heriq\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -122,14 +122,14 @@
         }
       }
     },
-    "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\Apresentacao\\Launcher\\Launcher.csproj": {
+    "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\apresentacao\\Launcher\\Launcher.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\Apresentacao\\Launcher\\Launcher.csproj",
+        "projectUniqueName": "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\apresentacao\\Launcher\\Launcher.csproj",
         "projectName": "Launcher",
-        "projectPath": "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\Apresentacao\\Launcher\\Launcher.csproj",
+        "projectPath": "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\apresentacao\\Launcher\\Launcher.csproj",
         "packagesPath": "C:\\Users\\heriq\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\Apresentacao\\Launcher\\obj\\",
+        "outputPath": "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\apresentacao\\Launcher\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\heriq\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -144,11 +144,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\Apresentacao\\Biblioteca\\Biblioteca.csproj": {
-                "projectPath": "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\Apresentacao\\Biblioteca\\Biblioteca.csproj"
+              "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\apresentacao\\Biblioteca\\Biblioteca.csproj": {
+                "projectPath": "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\apresentacao\\Biblioteca\\Biblioteca.csproj"
               },
-              "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\Apresentacao\\Evento\\Evento.csproj": {
-                "projectPath": "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\Apresentacao\\Evento\\Evento.csproj"
+              "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\apresentacao\\Evento\\Evento.csproj": {
+                "projectPath": "C:\\Users\\heriq\\OneDrive\\Área de Trabalho\\visual\\projeto\\apresentacao\\apresentacao\\apresentacao\\Evento\\Evento.csproj"
               }
             }
           }
